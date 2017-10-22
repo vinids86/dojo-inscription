@@ -1,0 +1,4 @@
+br/com/infracommerce/inscription/BeforeSaveEventListener.class
+br/com/infracommerce/inscription/Inscription.class
+br/com/infracommerce/inscription/InscriptionRepository.class
+br/com/infracommerce/inscription/InscriptionApplication.class
